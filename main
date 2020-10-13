@@ -1,0 +1,5 @@
+use_transbg = true
+brightness = 20
+fade_ratio = 75
+fg_color = white
+bg_color = black
